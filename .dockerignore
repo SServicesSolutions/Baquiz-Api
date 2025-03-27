@@ -1,0 +1,15 @@
+# Docker ignore file
+node_modules/
+npm-debug.log
+.DS_Store
+.env
+.git/
+.gitignore
+.vscode/
+logs/*
+!logs/.keep
+coverage/
+tests/
+.idea/
+dist/
+*.md
